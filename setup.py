@@ -29,7 +29,7 @@ desc_doc = 'README.md'
 
 setup(
     name='flask-logfile',
-    version='0.0.1',
+    version='0.0.2',
     author='wall-1',
     url='https://github.com/WALL-1/flask-logfile.git',
     packages=['flask_logfile'],
